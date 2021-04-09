@@ -1,0 +1,16 @@
+{
+  "name": "Rubik_Cube2",
+  "description": "An ESP32 Arduino board",
+  "keywords": "Rubik_Cube2",
+  "authors": {
+    "name": "Rubik_Cube2",
+    "url": "https://www.upahead.cn/#/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/upahead/Rubik_Mini1-Arduino"
+  },
+  "version": "0.0.0",
+  "framework": "arduino",
+  "platforms": "espressif32"
+}
